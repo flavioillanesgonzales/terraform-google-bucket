@@ -10,3 +10,8 @@ variable "name-location" {
   default = "US"
 }
 
+
+variable "storage-class" {
+  type = string
+  
+}
